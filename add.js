@@ -4,4 +4,4 @@ function add(a, b) {
   return sum;
 }
 
-export default add();
+export default add;
