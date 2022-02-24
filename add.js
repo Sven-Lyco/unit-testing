@@ -1,7 +1,5 @@
 function add(a, b) {
-  let sum = 0;
-  sum = a + b;
-  return sum;
+  return Number(a) + Number(b);
 }
 
 export default add;
